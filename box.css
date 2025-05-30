@@ -1,0 +1,14 @@
+.custom-button{
+    cursor:pointer;
+    border-radius:25px;
+    border-color:#04AA6D;
+    padding:20px;
+}
+.profile-image{
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    margin:10px;
+    border:10px solid green;
+    padding:10px;
+}
