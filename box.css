@@ -12,3 +12,19 @@
     border:10px solid green;
     padding:10px;
 }
+.main{
+    border:1px solid darkblue;
+    padding:20px;
+    margin:30px;
+    border-radius:15px;
+    font-size:20px;
+    font-weight:bolder;
+    font-family:cursive;
+    text-align:justify;
+    line-height:45 px;
+   
+
+}
+.first-text{
+    text-transform:capitalize;
+}
